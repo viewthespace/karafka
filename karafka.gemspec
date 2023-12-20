@@ -23,7 +23,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'dry-validation', '~> 1.7'
   spec.add_dependency 'envlogic', '~> 1.1'
   spec.add_dependency 'ruby-kafka', '>= 1.3.0'
-  spec.add_dependency 'thor', '>= 1.1'
+  spec.add_dependency 'thor', '1.3'
   spec.add_dependency 'waterdrop', '~> 1.4'
   spec.add_dependency 'zeitwerk', '~> 2.4'
 
